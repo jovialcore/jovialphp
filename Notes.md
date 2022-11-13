@@ -5,4 +5,6 @@
  *
  *  According to the docs, The fundamental principles of our framework should be around the HTTP specification.
  * So in today's lesson, I learnt about Symfony HttpFoundation component which replaces default PHP global variables and functions using an Object Oriented approach.
+
+ Side note: According to symfony docs : using the HttpFoundation component is the start of better interoperability between all frameworks and applications using it
  
