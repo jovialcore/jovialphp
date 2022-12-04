@@ -21,3 +21,5 @@ if (isset($map[$thePath])) {
     $response->setStatusCode(404);
     $response->setContent('Not Found');
 }
+
+$response->send();
